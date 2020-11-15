@@ -5,7 +5,8 @@
   "main": "collect.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "crawl": "node collect.js"
+    "collect": "node collect.js",
+    "refine": "node refine.js"
   },
   "keywords": [],
   "author": "",
